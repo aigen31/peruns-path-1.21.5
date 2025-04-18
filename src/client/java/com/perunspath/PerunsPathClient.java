@@ -1,10 +1,14 @@
 package com.perunspath;
 
+import com.perunspath.items.TestItems;
+
 import net.fabricmc.api.ClientModInitializer;
 
 public class PerunsPathClient implements ClientModInitializer {
+	public static final String MOD_ID = "peruns_path";
+
 	@Override
 	public void onInitializeClient() {
-		// This entrypoint is suitable for setting up client-specific logic, such as rendering.
+		TestItems.initialize();
 	}
 }
