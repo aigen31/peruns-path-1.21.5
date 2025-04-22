@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/aigen31/peruns-path-1.21.5/blob/master/README.md)
+[![ru-ru](https://img.shields.io/badge/lang-ru--ru-green.svg)](https://github.com/aigen31/peruns-path-1.21.5/blob/master/README.ru-ru.md)
+
 # ⚡ Perun's Path — A Slavic Mythology Mod for Minecraft
 
 **There will be the description**
